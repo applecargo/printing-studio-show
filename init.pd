@@ -1,0 +1,8 @@
+#N canvas 317 249 174 147 10;
+#X text 4 5 .anchor.;
+#X obj 21 31 loadbang;
+#X obj 21 59 f \$1;
+#X obj 21 87 outlet;
+#X text 104 115 .anchor.;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
